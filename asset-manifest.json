@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ENIGMA2/static/css/main.b6d46037.css",
+    "main.js": "/ENIGMA2/static/js/main.69b5d7ab.js",
+    "static/js/453.c5eaf93b.chunk.js": "/ENIGMA2/static/js/453.c5eaf93b.chunk.js",
+    "index.html": "/ENIGMA2/index.html",
+    "main.b6d46037.css.map": "/ENIGMA2/static/css/main.b6d46037.css.map",
+    "main.69b5d7ab.js.map": "/ENIGMA2/static/js/main.69b5d7ab.js.map",
+    "453.c5eaf93b.chunk.js.map": "/ENIGMA2/static/js/453.c5eaf93b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6d46037.css",
+    "static/js/main.69b5d7ab.js"
+  ]
+}
