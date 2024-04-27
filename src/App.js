@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import ParticlesBg from 'particles-bg';
-import {prediction} from '../utils/backend'
+import prediction from './backend'
 
 
 class App extends Component {
@@ -35,7 +35,7 @@ class App extends Component {
 
   datacall = async() => {
     try{
-      await prediction(data.numRiders, data.vehicleType, expectedDuration)
+      await prediction(this.state.numRiders, this.state.vehicleType, this.state.expectedDuration)
       console.log('done')
     }
     catch(err) {
